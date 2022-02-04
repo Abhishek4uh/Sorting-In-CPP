@@ -1,2 +1,2 @@
 # Sorting-In-CPP
-Sorting Technique in cpp
+--> Various Sorting Technique in Programming using Cpp
